@@ -1,0 +1,8 @@
+Dr. S. Anandhi is an Associate Professor in the Department of Applied Mathematics and Computational Sciences at PSG College of Technology, Coimbatore. She joined the department on 13/12/2007. Dr. Anandhi completed her Ph.D in Computer Science from Anna University on 27/11/2019, with the thesis titled "An Investigation and Design of Certain RFID Security Protocols for Cloud-Based Supply Chain Management Applications." Her M.C.A and M.Phil in Computer Science were obtained from Bharathiar University (2002) and Bharathidasan University (2005), respectively.
+
+Dr. Anandhi’s research interests include Access Control, Security Protocols, Formal Methods, and Design and Analysis of Security Protocols. Her expertise spans Enterprise Computing, Information Security, Internet of Things (IoT), Object-Oriented Modeling and Design, Java Programming, RF Communication, Semantic Web, Web Programming, Computer Forensics, Cryptography, Cloud Computing, Software Patterns, Identity and Access Management, Threat Hunting, and Secure Coding.
+
+She has served as a reviewer for several prestigious journals, including the IEEE Systems Journal, Journal of Super Computing, and IETE Journal of Research, among others. She is a recognized research supervisor at Anna University for Ph.D./MS research scholars (Ref. No. 3970030).
+
+You can contact her at san.amcs@psgtech.ac.in.
+

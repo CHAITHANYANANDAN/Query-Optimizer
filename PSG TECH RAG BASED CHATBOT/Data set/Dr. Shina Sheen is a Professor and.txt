@@ -1,0 +1,6 @@
+Dr. Shina Sheen is a Professor and Head in the Department of Applied Mathematics and Computational Sciences at PSG College of Technology, Coimbatore. She joined the department on 10/06/2005. Dr. Shina Sheen completed her Ph.D in Computer Science from Anna University on 23/02/2015 under the supervision of Dr. R. Anitha. She also holds an M.C.A from Bharathiar University (1996) and a B.Sc in Physics from Calicut University (1993). She is a certified SANS GCIA (Intrusion Detection) and GCIH (Hacker Tools and Techniques) professional.
+
+Dr. Shina Sheen is the Programme Head for the MSc Cyber Security program in the department and has been awarded two funded projects by the Department of Science and Technology, Government of India, focusing on Proactive Detection of Ransomware and the development of a Centre for Cybersecurity Research and Education. Her research areas include Information Security, with a specific focus on Ransomware Attack Detection and Data Mining.
+
+She is a member of the ACM, Cryptology Research Society of India, and the Computer Society of India. She can be contacted at hod.amcs@psgtech.ac.in or ssh.amcs@psgtech.ac.in.
+

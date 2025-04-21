@@ -1,0 +1,7 @@
+Mrs. Suganthi S D is an Assistant Professor (Sl. Gr.) in the Department of Applied Mathematics and Computational Sciences at PSG College of Technology, Coimbatore. She joined the department on 01/09/2008. Mrs. Suganthi completed her M.C.A from Bharathiar University in 2001 and her B.E in Electronics and Communication from PSG College of Technology, Bharathiar University, in 1988. She is currently pursuing her Ph.D. in Computer Science from Anna University, under the supervision of Dr. R. Anitha.
+
+Her research interests include Network Security, Wireless Sensor Networks, Cryptography and Network Security, Data Communication Networks, and Cloud & IoT Security. She is a member of ACM, Cryptology Research Society of India (CRSI), and the Institution of Engineers.
+
+Her expertise covers Computer Architecture, Advanced Computer Architecture, Embedded Systems, Microprocessors and Microcontrollers, and Wireless Sensor Networks.
+
+You can contact her at sds.amcs@psgtech.ac.in.
